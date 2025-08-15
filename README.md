@@ -54,13 +54,27 @@ I love cooking 🍳 (working on a recipe book) and going on car road trips 🚗�
 **OpenAI Data Trainer Intern** — *Invisible Technologies*  
 - Conducted large-scale **ETL** processes for ML projects, ensuring clean and consistent datasets.  
 - Designed and improved **React** dashboards for a 15% boost in engagement.  
-- Presented insights that improved user engagement by **25%**.  
+- Presented insights that improved user engagement by **25%**.
+  
+## 🎓 Education
+
+**Husson University** — *B.S. in Software Engineering*  
+📍 Bangor, Maine | *Expected May 2026*  
+
+**Southern New Hampshire University** — *B.A. in Business Management*  
+Concentration: Operations & Logistics  
+📍 Manchester, New Hampshire| *Aug 2019 - May 2023* 
+
+**CodePath** — *Software Engineering Program*  
+📍 Remote | *Completed*  
+
+**ColorStack** — *Tech Career Development & Networking*  
+📍 Remote | *Active Member*
+
 
 ---
 
 ## 📌 Featured Projects  
-
-## 🚀 Featured Projects
 
 ### [Payroll Management System](https://github.com/NorbertShema/Payroll-Management-System-PMS)  
 *(Next.js, TailwindCSS, Firebase, SQL)*  
