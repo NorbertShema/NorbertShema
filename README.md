@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Norbert Shema!  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3F8CFF&center=true&vCenter=true&width=800&lines=Software+Engineer;Data+Enthusiast;Back-End+Developer;Machine+Learning+Explorer)](https://git.io/typing-svg)  
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3F8CFF&center=true&vCenter=true&width=800&lines=Software+Engineer;Data+Enthusiast;Back-End+Developer;AI+Machine+Learning+Explorer)](https://git.io/typing-svg)  
+  
 
 ## 🚀 About Me  
 👋 Hi, I'm Norbert Shema, an aspiring Software Engineer based in **North Carolina**, actively seeking full-time opportunities in Software Engineering or Data Engineering where I can contribute to innovative projects and grow as a developer.  
@@ -12,6 +11,7 @@
 ---
 
 ## 🛠️ Tech Stack  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
