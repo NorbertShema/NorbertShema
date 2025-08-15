@@ -4,9 +4,10 @@
   
 
 ## 🚀 About Me  
-👋 Hi, I'm Norbert Shema, an aspiring Software Engineer and soon-to-be Husson University alumnus in Software Engineering, with a B.A. in Management from Southern New Hampshire University.
+👋 Hi, I'm Norbert Shema, an aspiring Software Engineer and soon-to-be Husson University alumnus in Software Engineering (May 2026) 🎓, with a B.A. in Management from Southern New Hampshire University. Based in Charlotte, NC 📍, I’m seeking full-time opportunities in Software or Data Engineering. 
 
-I’m currently based in Charlotte, North Carolina, and actively seeking full-time opportunities in Software Engineering or Data Engineering where I can contribute to innovative projects and grow as a developer.
+I love cooking 🍳 (working on a recipe book) and going on car road trips 🚗💨.
+
 
 💡 My mission: Build tools that make life easier, smarter, and more connected.  
 
