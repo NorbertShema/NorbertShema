@@ -60,13 +60,17 @@ I love cooking 🍳 (working on a recipe book) and going on car road trips 🚗�
 
 ## 📌 Featured Projects  
 
-**Payroll Management System** *(Next.js, TailwindCSS, Firebase, SQL)*  
-> Automated salary processing, tax calculations, and payroll records for businesses.  
-> Focused on security, efficiency, and a user-friendly HR dashboard.  
+## 🚀 Featured Projects
 
-**Car Price Prediction Model** *(Python, ML, WEKA)*  
-> Developed models (Linear Regression, KNN, Random Forest, XGBoost, MLP) with 10-fold cross-validation.  
-> Identified key price factors to help buyers & sellers make informed decisions.  
+### [Payroll Management System](https://github.com/NorbertShema/Payroll-Management-System-PMS)  
+*(Next.js, TailwindCSS, Firebase, SQL)*  
+Automated salary processing, tax calculations, and payroll records for businesses.  
+Focused on security, efficiency, and a user-friendly HR dashboard.  
+
+### [Car Price Prediction Model](https://github.com/NorbertShema/Car-Price-Prediction-Model)  
+*(Python, ML, WEKA)*  
+Developed models (Linear Regression, KNN, Random Forest, XGBoost, MLP) with 10-fold cross-validation.  
+Identified key price factors to help buyers & sellers make informed decisions.  
 
 ---
 
