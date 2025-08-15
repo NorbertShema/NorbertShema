@@ -60,7 +60,7 @@ I love cooking 🍳 (working on a recipe book) and going on car road trips 🚗�
 
 ## 📌 Featured Projects  
 
-**Payroll Management System** *(Next.js, TailwindCSS, Firebase)*  
+**Payroll Management System** *(Next.js, TailwindCSS, Firebase, SQL)*  
 > Automated salary processing, tax calculations, and payroll records for businesses.  
 > Focused on security, efficiency, and a user-friendly HR dashboard.  
 
