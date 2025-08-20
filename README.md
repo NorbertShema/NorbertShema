@@ -76,7 +76,7 @@ Concentration: Operations & Logistics
 
 ### [Payroll Management System](https://github.com/NorbertShema/Payroll-Management-System-PMS)  
 *(SQL)*  
-Automated salary processing, tax calculations, and payroll records for businesses.  
+Built a full automated salary processing, tax calculations, and payroll records for businesses.  
 Focused on security, efficiency, and a user-friendly HR dashboard.  
 
 ### [Car Price Prediction Model](https://github.com/NorbertShema/Car-Price-Prediction-Model)  
