@@ -100,7 +100,7 @@ Identified key price factors to help buyers & sellers make informed decisions.
 **[CodePath Technical Interview Prep](https://www.linkedin.com/feed/update/urn:li:activity:7341560596993138689/)**   
 **[CodePath Web Development](https://www.linkedin.com/feed/update/urn:li:activity:7341561714607337476/)**
 - CompTIA A+ Core 1 (220-1101-2)  
-- CodePath Android Development   
+- CodePath Android App Development   
 
 ---
 
