@@ -93,7 +93,10 @@ Identified key price factors to help buyers & sellers make informed decisions.
 > This app simplifies grocery shopping by auto-generating smart shopping lists from selected recipes.  
 > Features include **budget tracking**, **diet filters** (vegan/keto/etc.), and **personalized suggestions** based on purchase history.  
 > Designed to **reduce waste**, **save time**, and **cut costs**, making grocery trips smarter and more efficient.  
-> Collaborating with a diverse team to build a **fully functional application** from the ground up.  
+> Collaborating with a diverse team to build a **fully functional application** from the ground up.
+
+
+**Android app development*   
 
 ---
 
@@ -101,7 +104,8 @@ Identified key price factors to help buyers & sellers make informed decisions.
 **[CodePath Technical Interview Prep](https://www.linkedin.com/feed/update/urn:li:activity:7341560596993138689/)**   
 **[CodePath Web Development](https://www.linkedin.com/feed/update/urn:li:activity:7341561714607337476/)**
 - CompTIA A+ Core 1 (220-1101-2)  
-- CodePath Android App Development   
+- CodePath Android App Development
+- Business Analytics (Husson University)
 
 ---
 
