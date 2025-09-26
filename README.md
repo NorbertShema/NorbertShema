@@ -47,7 +47,7 @@
 **Software Engineer** — *Born2Serve*  
 - Built interactive dashboards using **Tableau** and **Power BI** for real-time KPI monitoring.  
 - Automated data preprocessing & anomaly detection in **Python**, improving reporting efficiency.  
-- Refactored scheduling algorithms and optimized cost/resource models, boosting Born2Server mission planning efficiency by 30%.
+- Refactored scheduling algorithms and optimized cost/resource models, boosting Born2Serve mission planning efficiency by 30%.
 - Implemented CI/CD pipeline for a 10-engineer team developing autonomous navigation software for Born2Serve, reducing deployment time by 40% and enhancing cross-team collaboration
 
 **OpenAI Data Trainer Intern** — *Invisible Technologies*  
