@@ -4,7 +4,7 @@
   
 
 ## 🚀 About Me  
-👋 Hi, I'm Norbert Shema, an aspiring Software Engineer and soon-to-be Husson University alumnus in (May 2026) 🎓. I’m seeking full-time opportunities in Software or Data Engineering. I love cooking 🍳 (working on a recipe book) and going on car road trips 🚗💨.
+👋 Hi, I'm Norbert Shema, an aspiring Software Engineer and soon-to-be Husson University alumnus in (May 2026) 🎓. I’m seeking full-time opportunities in Software or Data Engineering. I love cooking 🍳 (working on a recipe book) and going on car road trips 🚗💨
 
 
 💡 My mission: Build tools that make life easier, smarter, and more connected.
