@@ -6,10 +6,6 @@
 ## 🚀 About Me  
 Hi👋, I'm Norbert, an aspiring Software Engineer who is passionate about building scalable, reliable systems that connect software, data, and people. My focus is on creating tools that make technology faster, smarter, and easier to use, helping teams work efficiently and organizations make better decisions.
 
-In my internships at Born2Serve and Invisible Technologies, I worked on CI/CD pipelines, full-stack web applications, and data-driven systems that improved performance and helped teams work more efficiently. I’ve seen how much impact well-built software can have when it’s designed with people in mind.
-
-Proficient in Python, Java, C++, React, Next.js, Firebase, SQL, AWS, and Azure, I bring a blend of software engineering, data analytics, and system design experience. I’m also a ColorStack Fellow and a student leader at Husson University, where I’ve had the chance to mentor others and help bring technology ideas to life on campus.
-
 
 💡I’m curious by nature, focused on growth, and always looking for ways to build software that makes a real difference.
 
