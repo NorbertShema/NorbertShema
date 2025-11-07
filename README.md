@@ -4,13 +4,30 @@
   
 
 ## 🚀 About Me  
-Hi👋, I'm Norbert, an aspiring Software Engineer who is passionate about building scalable, reliable systems that connect software, data, and people. My focus is on creating tools that make technology faster, smarter, and easier to use, helping teams work efficiently and organizations make better decisions.
 
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "Norbert Shema"
+        self.role = "Aspiring Software Engineer"
+        self.passions = [
+            "Building scalable, reliable systems that connect software, data, and people",
+            "Creating tools that make technology faster, smarter, and easier to use",
+            "Helping teams work efficiently and organizations make better decisions"
+        ]
+        self.traits = ["Curious", "Growth-Focused", "Impact-Driven"]
+        self.location = "Charlotte, North Carolina"
 
-💡I’m curious by nature, focused on growth, and always looking for ways to build software that makes a real difference.
+    def introduce(self):
+        print(f"Hi👋, I'm {self.name}, an {self.role}.")
+        print("I'm passionate about:")
+        for passion in self.passions:
+            print(f" - {passion}")
+        print(f"\n💡 I’m {', '.join(self.traits)} and always looking for ways to build software that makes a real difference.")
+        print(f"📍 Based in {self.location}.")
 
-
-📍 Charlotte, North Carolina.
+me = AboutMe()
+me.introduce()
 
 ---
 
