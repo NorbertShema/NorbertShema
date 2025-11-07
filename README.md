@@ -29,6 +29,8 @@ class AboutMe:
 me = AboutMe()
 me.introduce()
 
+```
+
 ---
 
 ## 🛠️ Tech Stack  
