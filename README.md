@@ -10,15 +10,19 @@ class AboutMe:
     def __init__(self):
         self.name = "Norbert Shema"
         self.role = "Aspiring Software Engineer"
-        self.passions = [
+
+        self.passions =
+        [
             "Building scalable, reliable systems that connect software, data, and people",
             "Creating tools that make technology faster, smarter, and easier to use",
             "Helping teams work efficiently and organizations make better decisions"
         ]
+
         self.traits = ["Curious", "Growth-Focused", "Impact-Driven"]
         self.location = "Charlotte, North Carolina"
 
     def introduce(self):
+
         print(f"Hi👋, I'm {self.name}, an {self.role}.")
         print("I'm passionate about:")
         for passion in self.passions:
