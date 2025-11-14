@@ -114,6 +114,8 @@ Identified key price factors to help buyers & sellers make informed decisions.
 
 ## 🔨 Currently Working On  
 
+** Building my first AI agent (LLM chatbot with LangGraph) through Codepath
+
 **Smart Grocery Shopping App** *(System Analysis & Design)*  
 > This app simplifies grocery shopping by auto-generating smart shopping lists from selected recipes.  
 > Features include **budget tracking**, **diet filters** (vegan/keto/etc.), and **personalized suggestions** based on purchase history.  
