@@ -82,14 +82,15 @@ me.introduce()
   
 ## 🎓 Education
 
-**Husson University** — *B.S. in Software Engineering*  
+**Husson University** — *B.S. in Software Engineering* 
+                      - *Minor in Business Analytics*  
 📍 Bangor, Maine | *Expected May 2026*  
 
 **Southern New Hampshire University** — *B.A. in Business Management*  
 Concentration: Operations & Logistics  
 📍 Manchester, New Hampshire| *Aug 2019 - May 2023* 
 
-**CodePath** — *Software Engineering Program*  
+**CodePath** — *Applied AI Engineering Program*  
 📍 Remote | *Completed*  
 
 **ColorStack** — *Tech Career Development & Networking*  
