@@ -106,7 +106,7 @@ Concentration: Operations & Logistics
 Built a full automated salary processing, tax calculations, and payroll records for businesses.  
 Focused on security, efficiency, and a user-friendly HR dashboard.  
 
-### [Car Price Prediction Model](https://github.com/NorbertShema/Car-Price-Prediction-Model)  
+### [Predictive Pricing Engine](https://github.com/NorbertShema/Car-Price-Prediction-Model)  
 *(Python, ML, WEKA)*  
 Developed models (Linear Regression, KNN, Random Forest, XGBoost, MLP) with 10-fold cross-validation.  
 Identified key price factors to help buyers & sellers make informed decisions.  
