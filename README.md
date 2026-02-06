@@ -75,7 +75,7 @@ me.introduce()
 - Refactored scheduling algorithms and optimized cost/resource models, boosting Born2Serve mission planning efficiency by 30%.
 - Implemented CI/CD pipeline for a 10-engineer team developing autonomous navigation software for Born2Serve, reducing deployment time by 40% and enhancing cross-team collaboration
 
-**OpenAI Data Trainer Intern** — *Invisible Technologies*  
+**Machine Learing Data Intern** — *Invisible Technologies*  
 - Conducted large-scale **ETL** processes for ML projects, ensuring clean and consistent datasets.  
 - Designed and improved **React** dashboards for a 15% boost in engagement.  
 - Presented insights that improved user engagement by **25%**.
