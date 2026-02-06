@@ -101,7 +101,7 @@ Concentration: Operations & Logistics
 
 ## 📌 Featured Projects  
 
-### [Payroll Management System](https://github.com/NorbertShema/Payroll-Management-System-PMS)  
+### [Cloud Payroll & Identity System](https://github.com/NorbertShema/Payroll-Management-System-PMS)  
 *(SQL)*  
 Built a full automated salary processing, tax calculations, and payroll records for businesses.  
 Focused on security, efficiency, and a user-friendly HR dashboard.  
