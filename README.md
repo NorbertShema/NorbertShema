@@ -69,13 +69,13 @@ me.introduce()
 
 ## 💼 Experience  
 
-**Software Engineer** — *Born2Serve*  
+**Software Engineer Intern** — *Born2Serve*  
 - Built interactive dashboards using **Tableau** and **Power BI** for real-time KPI monitoring.  
 - Automated data preprocessing & anomaly detection in **Python**, improving reporting efficiency.  
 - Refactored scheduling algorithms and optimized cost/resource models, boosting Born2Serve mission planning efficiency by 30%.
 - Implemented CI/CD pipeline for a 10-engineer team developing autonomous navigation software for Born2Serve, reducing deployment time by 40% and enhancing cross-team collaboration
 
-**Machine Learing Data Intern** — *Invisible Technologies*  
+**Machine Learning Data Intern** — *Invisible Technologies*  
 - Conducted large-scale **ETL** processes for ML projects, ensuring clean and consistent datasets.  
 - Designed and improved **React** dashboards for a 15% boost in engagement.  
 - Presented insights that improved user engagement by **25%**.
