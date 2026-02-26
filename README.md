@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3F8CFF&center=true&vCenter=true&width=800&lines=Software+Engineer;Data+Enthusiast;Back-End+Developer;AI+Machine+Learning+Explorer)](https://git.io/typing-svg)  
   
 
-## 🚀 About Me  
+## About Me  
 
 ```python
 class AboutMe:
