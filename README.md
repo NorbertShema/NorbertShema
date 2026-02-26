@@ -1,101 +1,130 @@
-# 👋 Hi, I'm Norbert Shema!  
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3F8CFF&center=true&vCenter=true&width=800&lines=Software+Engineer;Data+Enthusiast;Back-End+Developer;AI+Machine+Learning+Explorer)](https://git.io/typing-svg)  
-  
+# Hey, I'm Norbert Shema 👋🏾
 
-## About Me  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3F8CFF&center=true&vCenter=true&width=800&lines=Software+Engineer+%F0%9F%9A%80;Cloud+%26+Backend+Builder+%E2%98%81%EF%B8%8F;ML+%26+AI+Tinkerer+%F0%9F%A4%96;ColorStack+Fellow+%F0%9F%8F%86)](https://git.io/typing-svg)
+
+**Building scalable systems. Training smarter models. Making tech actually useful.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/norbertshema)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NorbertShema)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shemanorbert11@gmail.com)
+
+</div>
+
+---
+
+## 🧠 About Me
 
 ```python
-class AboutMe:
+class Norbert:
     def __init__(self):
-        self.name = "Norbert Shema"
-        self.role = "Aspiring Software Engineer"
+        self.name       = "Norbert Shema"
+        self.role       = "Software Engineer"
+        self.education  = "B.S. Software Engineering @ Husson University (May 2026)"
+        self.location   = "Charlotte, North Carolina 📍"
+        self.fellowship = "ColorStack Fellow — Top Black/Latinx engineers in the U.S. 🏆"
 
-        self.passions =
-        [
-            "Building scalable, reliable systems that connect software, data, and people",
-            "Creating tools that make technology faster, smarter, and easier to use",
-            "Helping teams work efficiently and organizations make better decisions"
-        ]
+        self.stack      = ["Python", "Java", "SQL", "JavaScript", "Go", "C++"]
+        self.cloud      = ["AWS", "Firebase", "Azure", "Docker", "CI/CD"]
+        self.ml         = ["XGBoost", "Random Forest", "Scikit-learn", "Pandas", "NumPy"]
 
-        self.traits = ["Curious", "Growth-Focused", "Impact-Driven"]
-        self.location = "Charlotte, North Carolina"
+        self.currently  = "Scaling cloud systems & exploring AI-driven tooling 🔭"
+        self.fun_fact   = "I keynoted to 200+ tech professionals about AI & education equity 🎤"
 
-    def introduce(self):
+    def hello(self):
+        print(f"Hi! I'm {self.name} — I build things that scale, learn, and matter.")
 
-        print(f"Hi👋, I'm {self.name}, an {self.role}.")
-        print("I'm passionate about:")
-        for passion in self.passions:
-            print(f" - {passion}")
-        print(f"\n💡 I’m {', '.join(self.traits)} and always looking for ways to build software that makes a real difference.")
-        print(f"📍 Based in {self.location}.")
-
-me = AboutMe()
-me.introduce()
-
+me = Norbert()
+me.hello()
 ```
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-**Languages:**  
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-**Frameworks & Tools:**  
+**Frameworks & Libraries**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![WEKA](https://img.shields.io/badge/Weka-339966?style=for-the-badge&logo=weka&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Developer Tools:**  
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
-## 💼 Experience  
+## 🚀 Featured Projects
 
-**Software Engineer Intern** — *Born2Serve*  
-- Built interactive dashboards using **Tableau** and **Power BI** for real-time KPI monitoring.  
-- Automated data preprocessing & anomaly detection in **Python**, improving reporting efficiency.  
-- Refactored scheduling algorithms and optimized cost/resource models, boosting Born2Serve mission planning efficiency by 30%.
-- Implemented CI/CD pipeline for a 10-engineer team developing autonomous navigation software for Born2Serve, reducing deployment time by 40% and enhancing cross-team collaboration
+### 🏦 Cloud Payroll & Identity System
+> `SQL Server` `Next.js` `Firebase` `SSMS` `Material UI`
 
-**Machine Learning Data Intern** — *Invisible Technologies*  
-- Conducted large-scale **ETL** processes for ML projects, ensuring clean and consistent datasets.  
-- Designed and improved **React** dashboards for a 15% boost in engagement.  
-- Presented insights that improved user engagement by **25%**.
-  
-## 🎓 Education
+A full-stack cloud payroll platform built for real-world enterprise scenarios.
+- Designed a relational schema in Microsoft SQL Server for complex employee records, tax data & multi-tier RBAC
+- Migrated from local to AWS cloud architecture, improving global data availability for sensitive financial operations
+- Integrated **Firebase Auth** for enterprise-grade identity management with a clean Next.js + Material UI frontend
 
-**Husson University** — *B.S. in Software Engineering* 
-                      - *Minor in Business Analytics*  
-📍 Bangor, Maine | *Expected May 2026*  
+---
 
-**Southern New Hampshire University** — *B.A. in Business Management*  
-Concentration: Operations & Logistics  
-📍 Manchester, New Hampshire| *Aug 2019 - May 2023* 
+### 📈 Predictive Vehicle Pricing Engine
+> `Python` `WEKA` `Scikit-learn` `XGBoost` `Random Forest`
 
-**CodePath** — *Applied AI Engineering Program*  
-📍 Remote | *Completed*  
+An ML pipeline that identifies key vehicle pricing drivers with high precision.
+- Trained and evaluated **XGBoost & Random Forest** models using 10-fold cross-validation
+- Optimized feature selection to surface the most impactful pricing signals
 
-**ColorStack** — *Tech Career Development & Networking*  
-📍 Remote | *Active Member*
+---
 
+## 💼 Experience Highlights
+
+| Role | Company | Impact |
+|------|---------|--------|
+| 🛠 Software Engineer Intern | Born2Serve *(Chicago, IL)* | CI/CD pipeline → **-40% deploy latency**; AWS migration → **337% user growth** |
+| 🤖 ML Data Intern | Invisible Technologies *(SF, CA)* | LLM training & evaluation; automated pipelines → **-30% manual data handling** |
+
+---
+
+## 🏆 Leadership & Recognition
+
+- 🥇 **ColorStack Fellow** — 1 of 30 selected from 1,000+ applicants (top 3% of Black/Latinx engineers in the U.S.)
+- 🎤 **Keynote Speaker** at the Assessment Network of New York (ANNY) — presented AI research & education equity frameworks to 200+ tech professionals
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Norbert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NorbertShema&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NorbertShema&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Build things that scale, learn, and matter."* 🚀
+
+</div>
 
 ---
 
