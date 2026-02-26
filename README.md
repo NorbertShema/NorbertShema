@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3F8CFF&center=true&vCenter=true&width=800&lines=Software+Engineer+%F0%9F%9A%80;Cloud+%26+Backend+Builder+%E2%98%81%EF%B8%8F;ML+%26+AI+Tinkerer+%F0%9F%A4%96;ColorStack+Fellow+%F0%9F%8F%86)](https://git.io/typing-svg)
 
-**Building scalable systems. Training smarter models. Making tech actually useful.**
+**I am all about code, working with smart AI models, and always learning.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/norbertshema)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NorbertShema)
@@ -109,62 +109,11 @@ An ML pipeline that identifies key vehicle pricing drivers with high precision.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Norbert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NorbertShema&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NorbertShema&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *"Build things that scale, learn, and matter."* 🚀
 
 </div>
-
----
-
-## 📌 Featured Projects  
-
-### [Cloud Payroll & Identity System](https://github.com/NorbertShema/Payroll-Management-System-PMS)  
-*(SQL)*  
-Built a full automated salary processing, tax calculations, and payroll records for businesses.  
-Focused on security, efficiency, and a user-friendly HR dashboard.  
-
-### [Predictive Pricing Engine](https://github.com/NorbertShema/Car-Price-Prediction-Model)  
-*(Python, ML, WEKA)*  
-Developed models (Linear Regression, KNN, Random Forest, XGBoost, MLP) with 10-fold cross-validation.  
-Identified key price factors to help buyers & sellers make informed decisions.  
-
----
-
-## 🔨 Currently Working On  
-
-*Building my first AI agent (LLM chatbot with LangGraph) through Codepath*
-
-**Smart Grocery Shopping App** *(System Analysis & Design)*  
-> This app simplifies grocery shopping by auto-generating smart shopping lists from selected recipes.  
-> Features include **budget tracking**, **diet filters** (vegan/keto/etc.), and **personalized suggestions** based on purchase history.  
-> Designed to **reduce waste**, **save time**, and **cut costs**, making grocery trips smarter and more efficient.  
-> Collaborating with a diverse team to build a **fully functional application** from the ground up.
-
-
-**Android app development*   
-
----
-
-## 📜 Certifications  
-**[CodePath Technical Interview Prep](https://www.linkedin.com/feed/update/urn:li:activity:7341560596993138689/)**   
-**[CodePath Web Development](https://www.linkedin.com/feed/update/urn:li:activity:7341561714607337476/)**
-- CompTIA A+ Core 1 (220-1101-2)  
-- CodePath Android App Development
-- Business Analytics (Husson University)
-
----
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norbert-shema-9714681a4/)  
