@@ -20,7 +20,7 @@ class Norbert:
     def __init__(self):
         self.name       = "Norbert Shema"
         self.role       = "Software Engineer"
-        self.education  = "B.S. Software Engineering @ Husson University (May 2026)"
+        self.education  = "B.S. Software Engineering @ Husson University (2026)"
         self.location   = "Charlotte, North Carolina 📍"
         self.fellowship = "ColorStack Fellow — Top Black/Latinx engineers in the U.S. 🏆"
 
