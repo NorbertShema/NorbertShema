@@ -74,7 +74,7 @@ me.hello()
 ## 🚀 Featured Projects
 
 ### 🐾 ScoobySquad AI Agent *(Live)*
-> `Next.js` `n8n` `Google Gemini` `Supabase` `PostgreSQL` `Google OAuth` `Sweep&Go API` `Vercel`
+> `Python` `Next.js` `Javascript` `n8n` `Google Gemini` `Supabase` `PostgreSQL` `Google OAuth` `Sweep&Go API.`
 
 🔗 **[scoobysquad.com](https://scoobysquad.com/)** — An AI-powered customer service and booking agent built for a real, live pet waste removal business. Handles **100% of customer inquiries and bookings autonomously** with zero human intervention.
 
