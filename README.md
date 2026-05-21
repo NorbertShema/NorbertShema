@@ -20,7 +20,7 @@ class Norbert:
     def __init__(self):
         self.name       = "Norbert Shema"
         self.role       = "Software Engineer"
-        self.education  = " New grad Software Engineering @ Husson University (2026)"
+        self.education  = "New grad Software Engineering @ Husson University (2026)"
         self.location   = "Charlotte, North Carolina 📍"
         self.fellowship = "ColorStack Fellow — Top Black/Latinx engineers in the U.S. 🏆"
 
@@ -72,6 +72,56 @@ me.hello()
 ---
 
 ## 🚀 Featured Projects
+
+### 🐾 ScoobySquad AI Agent *(Live)*
+> `Next.js` `n8n` `Google Gemini` `Supabase` `PostgreSQL` `Google OAuth` `Sweep&Go API` `Vercel`
+
+🔗 **[scoobysquad.com](https://scoobysquad.com/)** — An AI-powered customer service and booking agent built for a real, live pet waste removal business. Handles **100% of customer inquiries and bookings autonomously** with zero human intervention.
+
+- Grounded the agent in live CRM data via the Sweep&Go API — eliminated hallucinated pricing/availability that plagued static-text early versions
+- Built end-to-end auth flow: Supabase Google OAuth → session token validation in n8n → secure webhook processing
+- Conversation logging to Google Sheets for owner visibility; SSR-optimized Next.js frontend for local SEO
+- Chose n8n over a custom backend to handle complex escalation routing and multi-step tool calls within budget
+
+| Metric | Result |
+|--------|--------|
+| 👤 Live users | **45** |
+| 🤖 Human interventions | **0** |
+| 🔄 Autonomous completion rate | **100%** |
+
+```
+User (Browser)
+     │
+     ▼
+┌─────────────────────────┐
+│   Next.js Frontend      │  ← SSR for SEO, Material UI, Google OAuth
+│   (Vercel)              │
+└────────────┬────────────┘
+             │ Authenticated webhook (Supabase session token)
+             ▼
+┌─────────────────────────┐
+│   n8n Workflow Engine   │  ← Orchestrates logic, escalation routing,
+│                         │    tool calls, and API integrations
+└──┬──────────┬───────────┘
+   │          │
+   ▼          ▼
+┌──────┐  ┌───────────────────┐
+│Gemini│  │  Sweep&Go API     │  ← Live CRM: customer data, availability
+│ LLM  │  │  (Business CRM)   │
+└──────┘  └───────────────────┘
+   │
+   ▼
+┌─────────────────────────┐
+│   Supabase (PostgreSQL) │  ← FAQ storage, session data, built-in auth
+└─────────────────────────┘
+   │
+   ▼
+┌─────────────────────────┐
+│   Google Sheets         │  ← Conversation logs — owner dashboard
+└─────────────────────────┘
+```
+
+---
 
 ### 🏦 Cloud Payroll & Identity System
 > `SQL Server` `Next.js` `Firebase` `SSMS` `Material UI`
