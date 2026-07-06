@@ -24,7 +24,7 @@ class Norbert:
         self.location   = "Charlotte, North Carolina 📍"
         self.fellowship = "ColorStack Fellow — Top Black/Latinx engineers in the U.S. 🏆"
 
-        self.stack      = ["Python", "Java", "SQL", "JavaScript", "Go", "C++"]
+        self.stack      = ["Python", "Java", "SQL", "JavaScript", "Go"]
         self.cloud      = ["AWS", "Firebase", "Azure", "Docker", "CI/CD"]
         self.ml         = ["XGBoost", "Random Forest", "Scikit-learn", "Pandas", "NumPy"]
 
